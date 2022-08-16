@@ -35,4 +35,4 @@ ie recovery points that take advantage of deduplication to minimize space consum
 %files
 %{_bindir}/fvs
 %{python_sitelib}/FVS-%{version}-py*.*.egg-info
-%{python_sitelib}//fvs/
+%{python_sitelib}/fvs/
