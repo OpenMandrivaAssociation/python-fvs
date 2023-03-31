@@ -1,6 +1,6 @@
 Name:           python-fvs
 Version:        0.3.4
-Release:        1
+Release:        2
 Summary:        File Versioning System with hash comparison, deduplication and data storage to create unlinked states that can be deleted
 License:        MIT
 Group:          Development/Languages/Python
